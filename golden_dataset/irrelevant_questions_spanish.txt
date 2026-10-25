@@ -1,0 +1,100 @@
+¿Cómo configuro las políticas de contraseñas en Active Directory?
+¿Cuáles son los requisitos de cumplimiento para la norma ISO 27001 en auditorías?
+¿Cómo se formatea una regla en un firewall Cisco para bloquear el puerto 80?
+¿Qué diferencia hay entre un firewall stateful y uno stateless?
+¿Cómo se configura una VLAN en un switch Cisco?
+¿Cómo funciona el protocolo DHCP y cómo se evita el agotamiento de direcciones?
+¿Cómo se valida un certificado TLS en un servidor web?
+¿Qué es una zona DMZ y qué servicios suelen ubicarse allí?
+¿Cómo se realiza una copia de seguridad incremental en Windows Server?
+¿Cómo se configura la autenticación multifactor en Microsoft 365?
+¿Qué es el principio de mínimo privilegio y cómo se aplica en bases de datos?
+¿Cómo se revisa el cumplimiento de la norma PCI DSS para una pasarela de pago?
+¿Cómo se segmenta una red corporativa usando subredes IPv4?
+¿Qué diferencia hay entre cifrado simétrico y asimétrico?
+¿Cómo se genera una clave SSH y se copia a un servidor remoto?
+¿Cómo se configura un servidor DNS autoritativo con BIND?
+¿Qué es un certificado wildcard y cuándo conviene usarlo?
+¿Cómo se implementa un esquema de contraseñas seguras en Linux con PAM?
+¿Cómo se audita el acceso a carpetas compartidas en Windows Server?
+¿Qué es una VPN site-to-site y cómo se enruta el tráfico entre sedes?
+¿Cómo se configura una lista de control de acceso en un router Juniper?
+¿Qué es el modelo OSI y cómo se relaciona con el troubleshooting de red?
+¿Cómo se protege una API REST con tokens OAuth 2.0?
+¿Cómo se configura el registro de eventos en un servidor Linux?
+¿Qué es un plan de continuidad del negocio y cómo se prueba?
+¿Cómo se gestionan los parches de seguridad en una flota de servidores?
+¿Cómo se configura un proxy inverso con Nginx?
+¿Qué diferencia hay entre IDS e IPS?
+¿Cómo se revisa la configuración de seguridad de un bucket S3?
+¿Cómo se implementa el cifrado en reposo en una base de datos PostgreSQL?
+¿Qué es la norma ISO 27002 y cómo se relaciona con ISO 27001?
+¿Cómo se configura un túnel GRE entre dos routers?
+¿Cómo se analiza el rendimiento de una red con Wireshark?
+¿Cómo se configura el bloqueo de cuentas por intentos fallidos en Active Directory?
+¿Qué es una tabla de enrutamiento y cómo se interpreta?
+¿Cómo se configura HAProxy para balanceo de carga?
+¿Cómo se gestionan certificados con Let's Encrypt?
+¿Qué es la firma digital y cómo se verifica en un documento PDF?
+¿Cómo se configura un servicio de correo con SPF, DKIM y DMARC?
+¿Cómo se documenta una prueba de recuperación ante desastres?
+¿Qué es la norma SOC 2 y qué controles exige?
+¿Cómo se configura un firewall pfSense para permitir solo tráfico HTTPS?
+¿Cómo se calcula una máscara de subred?
+¿Qué es una dirección IP privada y cuáles son sus rangos?
+¿Cómo se configura un clúster de alta disponibilidad en Windows Server?
+¿Cómo se cifra un disco con BitLocker?
+¿Cómo se recupera una contraseña olvidada en Linux sin afectar el sistema?
+¿Qué es un HSM y para qué se usa en la gestión de claves?
+¿Cómo se configura un servidor FTP seguro con FTPS?
+¿Cómo se revisan los logs de un servidor web Apache?
+¿Qué es la virtualización y cómo se aísla una máquina virtual?
+¿Cómo se configura una política de retención de correo en Exchange?
+¿Cómo se implementa la autenticación basada en certificados en una VPN?
+¿Cómo se configura un scrubbing center para filtrar tráfico no deseado?
+¿Cómo se configura un balanceador de carga con certificados SSL?
+¿Qué es la norma GDPR y qué obligaciones impone sobre datos personales?
+¿Cómo se configura un router para NAT estático?
+¿Cómo se prueba la calidad de un cable de red con un tester?
+¿Qué es un switch de capa 3 y cómo enruta paquetes?
+¿Cómo se configura la cuota de buzón en Google Workspace?
+¿Cómo se implementa el control de acceso basado en roles en una aplicación web?
+¿Qué es un repositorio Git y cómo se protege una rama principal?
+¿Cómo se configura un servidor NTP para sincronización horaria?
+¿Cómo se revisa la seguridad de una aplicación móvil antes de publicarla?
+¿Cómo se configura una regla de firewall en Windows Defender Firewall?
+¿Qué es la ofuscación de código y cuándo se usa legítimamente?
+¿Cómo se gestiona el ciclo de vida de una contraseña en Linux?
+¿Qué es un data center tier III y qué disponibilidad ofrece?
+¿Cómo se configura un servidor RADIUS para autenticación Wi-Fi?
+¿Cómo se hace una consulta SQL para listar usuarios inactivos?
+¿Qué es la normalización de bases de datos y cómo se aplica?
+¿Cómo se configura un backup diferencial en Veeam?
+¿Qué es un API gateway y qué funciones de seguridad ofrece?
+¿Cómo se implementa el cifrado de extremo a extremo en una app de mensajería?
+¿Cómo se configura un dominio en Cloudflare con DNSSEC?
+¿Qué es la norma NIST CSF y cómo se estructura?
+¿Cómo se configura una cuenta de servicio en SQL Server?
+¿Cómo se mide la latencia y el jitter en una red VoIP?
+¿Qué es un certificado autofirmado y cuándo no se recomienda?
+¿Cómo se configura un servidor de archivos Samba en Linux?
+¿Cómo se revisa el código fuente en busca de malas prácticas de seguridad?
+¿Qué es la gestión de secretos y cómo se usa Vault?
+¿Cómo se configura una política de contraseñas en un router MikroTik?
+¿Cómo se implementa la autenticación biométrica en una aplicación?
+¿Qué es una red definida por software y cómo mejora la segmentación?
+¿Cómo se configura un túnel IPSec entre dos sedes?
+¿Cómo se realiza un inventario de activos de TI?
+¿Qué es la norma ISO 22301 y cómo se aplica a la continuidad?
+¿Cómo se configura un servidor LDAP para autenticación centralizada?
+¿Cómo se prueba la restauración de un backup?
+¿Qué es un firewall de aplicaciones web y cómo se configura ModSecurity?
+¿Cómo se configura la rotación de logs en Linux con logrotate?
+¿Qué es un contrato SLA y cómo se mide su cumplimiento?
+¿Cómo se implementa el control de versiones en una base de datos?
+¿Cómo se configura un punto de acceso Wi-Fi con WPA3?
+¿Qué es la gestión de identidades y accesos y cómo se diferencia de la autenticación?
+¿Cómo se configura un servidor de correo Postfix con TLS?
+¿Cómo se prepara una masa de pizza casera?
+¿Cuál es la diferencia entre un ferrocarril y un tranvía?
+¿Cómo se configura un servidor Apache con virtual hosts?

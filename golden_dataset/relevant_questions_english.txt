@@ -1,0 +1,100 @@
+Which MITRE ATT&CK technique is identified by ID T1059?
+We detected unusual PowerShell use on an endpoint; which MITRE sub-technique should we review?
+What is the "lateral movement" tactic called in the matrix?
+What is T1053?
+Which tactic covers the objective of "initial access"?
+We see a process attempting to dump credentials from LSASS; which MITRE technique is associated?
+What is the ID of the "exfiltration" tactic?
+Which technique is used for persistence via scheduled tasks?
+Which sub-technique of T1059 is used for PowerShell?
+Which MITRE technique corresponds to "phishing"?
+In a compromise scenario, the attacker uses valid accounts to enter; which technique is it?
+Which tactic encompasses "discovery" of the environment?
+Which technique is used for file or information obfuscation?
+What is the ID of the "Command and Scripting Interpreter" technique?
+We detected process injection; which MITRE technique is it?
+Which tactic covers "impact"?
+Which technique is used to manipulate accounts (create or modify)?
+Which sub-technique of T1003 is used to dump credentials from SAM?
+We see use of "sudo" to elevate privileges; which MITRE sub-technique is it?
+Which tactic handles "command and control"?
+Which technique is used for C2 communication over HTTP?
+What ID does the "Scheduled Task/Job" technique have?
+The attacker deletes Windows event logs; which MITRE sub-technique is it?
+Which tactic covers "persistence"?
+Which technique is used to create a malicious Windows service?
+What is T1546?
+Which technique is used for execution flow hijacking?
+Which tactic covers "privilege escalation"?
+Which sub-technique of T1548 is used for UAC bypass?
+Which technique is used to manipulate access tokens?
+Which tactic covers "defense evasion"?
+Which technique is used to remove indicators (files, logs)?
+Which sub-technique of T1070 is used to delete files?
+Which tactic covers "credential access"?
+Which sub-technique of T1003 is used to dump credentials from NTDS?
+Which technique is known as "DCSync"?
+Which tactic covers "collection"?
+Which technique is used for email collection?
+Which technique is used to capture user input (keylogging)?
+Which tactic covers "lateral movement"?
+Which sub-technique of T1021 is used for SMB/Windows Admin Shares?
+Which technique is used for lateral movement via WMI?
+Which tactic covers "command and control"?
+Which sub-technique of T1071 is used for DNS?
+Which tactic covers "exfiltration"?
+Which technique is used to exfiltrate data over the C2 channel?
+Which tactic covers "impact"?
+Which technique is used to encrypt data with ransomware?
+Which technique is used to inhibit system recovery?
+Which technique is used for disk wiping?
+Which tactic covers "reconnaissance"?
+Which technique is used for network service scanning?
+Which tactic covers "resource development"?
+Which technique is used to acquire infrastructure?
+Which tactic covers "execution"?
+Which sub-technique of T1059 is used for the Windows command line (cmd)?
+Which technique is used for execution via scheduled tasks?
+Which technique is used for persistence via valid accounts?
+Which technique is used for persistence by creating accounts?
+Which sub-technique of T1547 is used for Registry Run Keys?
+Which sub-technique of T1574 is used for DLL hijacking?
+Which technique is used for privilege escalation via tokens?
+Which technique is used for defense evasion via rootkits?
+Which sub-technique of T1056 is used for keylogging?
+Which technique is used for account discovery?
+Which technique is used for remote system discovery?
+Which sub-technique of T1021 is used for RDP?
+Which technique is used to collect clipboard data?
+Which sub-technique of T1071 is used for web protocols?
+Which technique is used for exfiltration over alternative protocols?
+Which technique is used for network denial of service?
+Which sub-technique of T1070 is used for file deletion?
+Which technique is used to modify file permissions?
+Which technique is used for credential brute force?
+Which sub-technique of T1110 is used for password spraying?
+Which technique is used for service discovery?
+Which technique is used to collect configuration data?
+Which technique is used to prepare capabilities (resource development)?
+Which technique is used to establish accounts (resource development)?
+Which technique is used for active scanning (reconnaissance)?
+Which technique is used to search websites/domains for information?
+Which sub-technique of T1566 is used for spearphishing with an attachment?
+Which sub-technique of T1566 is used for spearphishing with a link?
+Which technique is used for initial access via external remote services?
+Which technique is used to exploit public-facing applications?
+Which technique is used for execution via command interpreters?
+Which sub-technique of T1547 is used for boot/logon autostart?
+Which sub-technique of T1003 is used for LSASS credential dumping?
+Which technique is used to discover system network configuration?
+Which technique is used for service execution?
+Which technique is used to collect local file data?
+Which sub-technique of T1048 is used for exfiltration over unencrypted protocols?
+Which technique is used for impact via ransomware?
+Which tactic covers "defense evasion" according to the Enterprise matrix?
+What ID does the "Defense Evasion" tactic have?
+Which technique is used to manipulate domain policies?
+Which technique is used for process injection?
+Which sub-technique of T1548 is used for abuse of sudo?
+Which technique is used for C2 over application layer protocols?
+Which technique is used to transfer tools into the compromised environment?

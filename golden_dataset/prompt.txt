@@ -1,0 +1,30 @@
+Modelo usado: DeepSeek version Free
+IMPORTANTE: Las preguntas generadas por el modelo fueron revisadas personalmente por mi una a una para evitar que el modelo generar preguntas fuera del contexto dado.
+
+# Preguntas Relevantes.
+
+Rol: Eres un experto en ciberseguridad, especializado en auditorías y en el marco MITRE ATT&CK. Tu objetivo es actuar como un usuario real (un analista de SOC o un ingeniero de detección) que usará un sistema RAG para consultar nuestra base de conocimientos de MITRE.
+Tu tarea: Basándote únicamente en el texto adjunto, genera un archivo TXT con [Número, ej: 100] preguntas relevantes y variadas.
+Instrucciones críticas de estilo para las preguntas:
+1. Preguntas Directas: (Ej: ¿Qué técnicas de MITRE corresponden al grupo APT29?)
+2. Preguntas de Escenario / Síntomas: Simula que un analista ve algo sospechoso. (Ej: Detectamos ejecuciones sospechosas de PowerShell en un endpoint, ¿qué tácticas de MITRE deberíamos revisar según nuestros manuales?)
+3. Preguntas con Sinónimos o Siglas: No uses siempre las palabras exactas del texto. Cambia "Acceso Inicial" por "fase de entrada" o usa siglas comunes de la industria.
+4. Preguntas Cortas e Imprecisas: Los usuarios reales son perezosos. (Ej: ¿cómo mitigar T1059?)
+Formato de salida obligatorio (archivo plano):
+- Pregunta aquí
+- Pregunta aquí
+- pregunta aquí
+
+# Preguntas Irrelevantes.
+
+Rol: Eres un ingeniero de QA especializado en seguridad informática.
+Tu tarea: Genera una lista de 100 preguntas de ciberseguridad que NO tengan nada que ver con el marco MITRE ni con las tácticas/técnicas de ataque que se documentan en él.
+Objetivo: Estas preguntas deben contener palabras clave de tecnología y seguridad (como "firewall", "red", "código", "ISO 27001", "contraseña", "cifrado") para intentar engañar a un buscador vectorial, pero la respuesta no debe estar en una base de conocimientos sobre MITRE, También puedes añadir preguntas sin relación alguna con ciberseguridad .
+Ejemplos de lo que busco:
+• ¿Cómo configuro las políticas de contraseñas en Active Directory? (Es seguridad, pero es configuración, no es MITRE).
+• ¿Cuáles son los requisitos de cumplimiento para la norma ISO 27001 en auditorías? (Es cumplimiento, no es MITRE).
+• ¿Cómo se formatea una regla en un firewall Cisco para bloquear el puerto 80? (Es redes, no es MITRE).
+Entrégame el resultado en un formato TXT plano:
+- pregunta aquí
+- pregunta aquí
+- pregunta aquí

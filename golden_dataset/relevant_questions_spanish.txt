@@ -1,0 +1,100 @@
+¿Qué técnica de MITRE ATT&CK se identifica con el ID T1059?
+Detectamos un uso inusual de PowerShell en un endpoint, ¿qué sub-técnica de MITRE deberíamos revisar?
+¿Cómo se llama la táctica de "movimiento lateral" en la matriz?
+¿Qué es T1053?
+¿Qué táctica cubre el objetivo de "acceso inicial"?
+Vemos un proceso que intenta volcar credenciales de LSASS, ¿qué técnica de MITRE se asocia?
+¿Cuál es el ID de la táctica de "exfiltración"?
+¿Qué técnica se usa para la persistencia mediante tareas programadas?
+¿Qué sub-técnica de T1059 se utiliza para PowerShell?
+¿Qué técnica de MITRE corresponde a "phishing"?
+un escenario de compromiso, el atacante usa cuentas válidas para entrar, ¿qué técnica es?
+¿Qué táctica engloba el "descubrimiento" del entorno?
+¿Qué técnica se utiliza para la ofuscación de archivos o información?
+¿Cuál es el ID de la técnica "Command and Scripting Interpreter"?
+Detectamos inyección de procesos, ¿qué técnica de MITRE es?
+¿Qué táctica cubre el "impacto"?
+¿Qué técnica se usa para manipular cuentas (crear o modificar)?
+¿Qué sub-técnica de T1003 se usa para volcar credenciales del SAM?
+Vemos un uso de "sudo" para elevar privilegios, ¿qué sub-técnica de MITRE es?
+¿Qué táctica se encarga del "comando y control"?
+¿Qué técnica se usa para la comunicación C2 mediante HTTP?
+¿Qué ID tiene la técnica "Scheduled Task/Job"?
+El atacante borra los registros de eventos de Windows, ¿qué sub-técnica de MITRE es?
+¿Qué táctica cubre la "persistencia"?
+¿Qué técnica se usa para crear un servicio de Windows malicioso?
+¿Qué es T1546?
+¿Qué técnica se utiliza para el secuestro de flujo de ejecución?
+¿Qué táctica cubre la "elevación de privilegios"?
+¿Qué sub-técnica de T1548 se usa para el bypass de UAC?
+¿Qué técnica se usa para la manipulación de tokens de acceso?
+¿Qué táctica cubre la "evasión de defensas"?
+¿Qué técnica se usa para eliminar indicadores (archivos, logs)?
+¿Qué sub-técnica de T1070 se usa para borrar archivos?
+¿Qué táctica cubre el "acceso a credenciales"?
+¿Qué sub-técnica de T1003 se usa para volcar credenciales de NTDS?
+¿Qué técnica se conoce como "DCSync"?
+¿Qué táctica cubre la "recolección"?
+¿Qué técnica se usa para la recolección de correo electrónico?
+¿Qué técnica se usa para capturar la entrada del usuario (keylogging)?
+¿Qué táctica cubre el "movimiento lateral"?
+¿Qué sub-técnica de T1021 se usa para SMB/Windows Admin Shares?
+¿Qué técnica se usa para el movimiento lateral mediante WMI?
+¿Qué táctica cubre el "comando y control"?
+¿Qué sub-técnica de T1071 se usa para DNS?
+¿Qué táctica cubre la "exfiltración"?
+¿Qué técnica se usa para exfiltrar datos a través del canal C2?
+¿Qué táctica cubre el "impacto"?
+¿Qué técnica se usa para cifrar datos con ransomware?
+¿Qué técnica se usa para inhibir la recuperación del sistema?
+¿Qué técnica se usa para el borrado de disco?
+¿Qué táctica cubre el "reconocimiento"?
+¿Qué técnica se usa para el escaneo de servicios de red?
+¿Qué táctica cubre el "desarrollo de recursos"?
+¿Qué técnica se usa para adquirir infraestructura?
+¿Qué táctica cubre la "ejecución"?
+¿Qué sub-técnica de T1059 se usa para la línea de comandos de Windows (cmd)?
+¿Qué técnica se usa para la ejecución mediante tareas programadas?
+¿Qué técnica se usa para la persistencia mediante cuentas válidas?
+¿Qué técnica se usa para la persistencia mediante la creación de cuentas?
+¿Qué sub-técnica de T1547 se usa para las claves de ejecución del registro?
+¿Qué sub-técnica de T1574 se usa para el secuestro de DLL?
+¿Qué técnica se usa para la elevación de privilegios mediante tokens?
+¿Qué técnica se usa para la evasión de defensas mediante rootkits?
+¿Qué sub-técnica de T1056 se usa para keylogging?
+¿Qué técnica se usa para el descubrimiento de cuentas?
+¿Qué técnica se usa para el descubrimiento de sistemas remotos?
+¿Qué sub-técnica de T1021 se usa para RDP?
+¿Qué técnica se usa para la recolección de datos del portapapeles?
+¿Qué sub-técnica de T1071 se usa para protocolos web?
+¿Qué técnica se usa para la exfiltración mediante protocolos alternativos?
+¿Qué técnica se usa para la denegación de servicio de red?
+¿Qué sub-técnica de T1070 se usa para la eliminación de archivos?
+¿Qué técnica se usa para la modificación de permisos de archivos?
+¿Qué técnica se usa para la fuerza bruta de credenciales?
+¿Qué sub-técnica de T1110 se usa para el password spraying?
+¿Qué técnica se usa para el descubrimiento de servicios?
+¿Qué técnica se usa para la recolección de datos de configuración?
+¿Qué técnica se usa para la preparación de capacidades (desarrollo de recursos)?
+¿Qué técnica se usa para el establecimiento de cuentas (desarrollo de recursos)?
+¿Qué técnica se usa para la búsqueda activa (reconocimiento)?
+¿Qué técnica se usa para la búsqueda de información en sitios web/dominios?
+¿Qué sub-técnica de T1566 se usa para el spearphishing con archivo adjunto?
+¿Qué sub-técnica de T1566 se usa para el spearphishing con enlace?
+¿Qué técnica se usa para el acceso inicial mediante servicios remotos externos?
+¿Qué técnica se usa para la explotación de aplicaciones de cara al público?
+¿Qué técnica se usa para la ejecución mediante intérpretes de comandos?
+¿Qué sub-técnica de T1547 se usa para el registro de arranque?
+¿Qué sub-técnica de T1003 se usa para el volcado de credenciales de LSASS?
+¿Qué técnica se usa para el descubrimiento de la configuración de red del sistema?
+¿Qué técnica se usa para la ejecución de servicios (service execution)?
+¿Qué técnica se usa para la recolección de datos de archivos locales?
+¿Qué sub-técnica de T1048 se usa para exfiltración sobre protocolos no cifrados?
+¿Qué técnica se usa para el impacto mediante ransomware?
+¿Qué táctica cubre la "evasión de defensas" según la matriz Enterprise?
+¿Qué ID tiene la táctica "Defense Impairment"?
+¿Qué técnica se usa para la manipulación de políticas de dominio?
+¿Qué técnica se usa para la inyección de procesos?
+¿Qué sub-técnica de T1548 se usa para el abuso de sudo?
+¿Qué técnica se usa para la comunicación C2 mediante protocolos de capa de aplicación?
+¿Qué técnica se usa para la transferencia de herramientas al entorno comprometido?
